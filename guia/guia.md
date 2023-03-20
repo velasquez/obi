@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Guía para investigar bloqueos de Internet
-subtitle: Con fuentes abiertas.
+title: Guía para investigar
+subtitle: bloqueos de Internet
 ---
 
 1. [Introducción a los bloqueos de Ineternet](introduccion)
