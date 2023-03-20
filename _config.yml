@@ -22,11 +22,9 @@ author: K+Lab
 navbar-links:
   About: "aboutme"
   Recursos:
-    - Introducción: "https://beautifuljekyll.com"
-    - Identificar Bloqueos: "https://www.markdowntutorial.com/"
-    - Confirmar Bloqueos: ""
-    - Buscar referencias: ""
-  Author's home: "https://deanattali.com"
+    - Guía: "guia"
+    - Log: "https://www.markdowntutorial.com/"
+  Fundación Karisma: "https://karisma.org.co"
 
 ################
 # --- Logo --- #
