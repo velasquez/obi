@@ -20,9 +20,9 @@ author: K+Lab
 ###############################################
 
 navbar-links:
-  About: "aboutme"
+  About: "about"
   Recursos:
-    - Guía: "guia/guia.md"
+    - Guía: "guia"
     - Log: "https://www.markdowntutorial.com/"
   Fundación Karisma: "https://karisma.org.co"
 
