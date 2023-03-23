@@ -4,4 +4,10 @@ title: Identificar
 subtitle: El tipo de bloqueo
 ---
 
-content
+
+
+
+
+## Bloqueos Físicos
+
+* 
