@@ -22,7 +22,7 @@ author: K+Lab
 navbar-links:
   About: "aboutme"
   Recursos:
-    - Guía: "guia"
+    - Guía: "guia/guia.md"
     - Log: "https://www.markdowntutorial.com/"
   Fundación Karisma: "https://karisma.org.co"
 
