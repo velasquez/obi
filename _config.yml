@@ -20,7 +20,7 @@ author: K+Lab
 ###############################################
 
 navbar-links:
-  About: "about"
+  About: "aboutme"
   Recursos:
     - Guía: "guia"
     - Log: "https://www.markdowntutorial.com/"
