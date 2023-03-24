@@ -19,7 +19,7 @@ _Fuera_, significa que no estamos siendo afectados por el bloqueo que investigam
 
 Dependiendo del escenario en que nos encontremos debemos tomar diferentes acciones.
 
-Primero, debemos [indentificar el tipo de bloqueo](identificar) al que nos enfrentamos. Usando información pública o nuestra misma experiencia podremos entender en que punto esta siendo bloqueada la comnicación y con base en esto podemos empezar a tomar acciones, tanto de evasión como para la futura ducumentación. Desarrollar técnicas que nos permitan identificar los tipos de bloqueos de internet, es por si misma una habilidad muy útil en situaciones de incomunicación, idependientemente si se documenta o no el bloqueo en el futuro.
+Primero, debemos [indentificar el tipo de bloqueo](/guia/identificar) al que nos enfrentamos. Usando información pública o nuestra misma experiencia podremos entender en que punto esta siendo bloqueada la comnicación y con base en esto podemos empezar a tomar acciones, tanto de evasión como para la futura ducumentación. Desarrollar técnicas que nos permitan identificar los tipos de bloqueos de internet, es por si misma una habilidad muy útil en situaciones de incomunicación, idependientemente si se documenta o no el bloqueo en el futuro.
 
 Luego con ayuda de [herramientas](herramientas) online y offline podremos hacer mediciones o consultar bases de datos que nos permitan confirmar el bloqueo, calcular su alcance y duración, su ubucación geográfica y los actores involucrados. En muchos casos el uso de estas herramientas también nos pude servir para desmentir rumores falsos de bloqueos. 
 
