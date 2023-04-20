@@ -14,8 +14,8 @@ Algunas preguntas que podemos hacernos inicialmente son las siguientes:
 * ¿El bloqueo sucede solo en un ISP, en varios o en todos lo que hay en la zona de la caida?
 
 * ¿ Si el bloqueo no es *total*, qué servicios o páginas de internet específicos están siendo bloqueados?
----
-  
+
+---  
 ## Bloqueos Físicos
 Físicamente hay dos formas fundamentales en que se puede cortar la conexión a internet:
 ### Corte de cables:
