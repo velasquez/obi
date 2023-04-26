@@ -27,7 +27,7 @@ Esta técnica consiste en generar "ruido electromagnético" con un aparato en un
  
  En el contexto de los bloqueos de internet el jamming se usa para bloquear el internet movil o wifi. Sin embargo puede usarse para bloquear otros tipos de conexiones que usan ondas de radio como los satélites, conexiones bluetooth, packet radio, etc.
 
-## **Bloqueos Lógicos**
+## Bloqueos Lógicos
 En este caso nos referimos a los bloqueos se suceden en los servidores o dispositivos que transportan los datos o las conexiones (routers, firewalls, muddle boxes, etc)
 
 ### Bloqueo por DNS:
